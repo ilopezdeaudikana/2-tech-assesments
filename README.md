@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Two tech assesments combined
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app was created using `React`, `Typescript`, `React hooks`, `Redux`, `Sagas`, `Antd` and `Styled components` and tested using `Jest`. 
 
 ## Available Scripts
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In the project directory, you can run:
 
 ### `yarn start`
 
