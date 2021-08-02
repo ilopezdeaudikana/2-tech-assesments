@@ -1,6 +1,11 @@
 # Two tech assesments combined
 
-This app was created using `React`, `Typescript`, `React hooks`, `Redux`, `Sagas`, `Antd` and `Styled components` and tested using `Jest`. 
+This app was created using `React`, `Express`, `Typescript`, `React hooks`, `Redux`, `Sagas`, `Antd` and `Styled components` and tested using `Jest`. 
+
+## Installation
+
+Run `yarn` in the main folder **and in the server folder**. Open two terminal windows and run `yarn start` in the main folder **and in the server folder**.
+
 
 ## Available Scripts
 
