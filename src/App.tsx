@@ -19,15 +19,15 @@ function App() {
   return (
     <Provider store={store}>
       <Router>
-        <div data-testid='App' className='App'>
-          <header className='App-header'>
+        <div data-testid='App'>
+          <header>
             <nav>
-              <ul>
+              <ul className='nav'>
                 <li>
                   <Link to='/'>Home</Link>
                 </li>
                 <li>
-                  <Link to='/tree'>tree</Link>
+                  <Link to='/tree'>Tree</Link>
                 </li>
               </ul>
             </nav>
